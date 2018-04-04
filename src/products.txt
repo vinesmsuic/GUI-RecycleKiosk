@@ -1,0 +1,10 @@
+//use tab to separate the items. example below. DO NOT EDIT FIRST TWO LINES
+Product	Currency	Price	Unit
+Tin cans	$	0.3	unit
+Card boards	$	5	kg
+Plastic bottle	$	0.5	unit
+Battery	$	4.5	unit
+Old CDs	$	2	unit
+Aluminum Scraps	$	9	kg
+Lead Scraps	$	8	kg
+Iron Scraps	$	2	kg

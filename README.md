@@ -1,4 +1,5 @@
-# Recycle Kiosk Project for School Assignment (Java on Netbeans IDE)
+# Recycle Kiosk Project for School Assignment 
+(Java on Netbeans IDE)
 
 **Basic Requirements of Recycling Kiosk**
 1. Read recycling item details into the program from a formatted text file (.txt) – Number of items, Item names and their corresponding credits

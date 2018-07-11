@@ -1,7 +1,7 @@
 # Recycle Kiosk Project for School Assignment 
 (Java on Netbeans IDE)
 
-**Aims**
+## Aims
 ```
 1. To encourage recycling in our community, residents who deposit the below material / items to the recycling kiosk will gain credits to their Octopus Card as scheduled below (items and prices here are for reference only, you need to research and define them):
 a. Tin cans, e.g. HK$0.3 / unit
@@ -11,7 +11,7 @@ c. Plastic bottle, e.g. $0.5 / unit
 3. At the end of every working day, the recycling kiosk will generate a report summarizing quantities of every categorized item
 ```
 
-**Basic Requirements of Recycling Kiosk**
+## Basic Requirements of Recycling Kiosk
 ```
 1. Read recycling item details into the program from a formatted text file (.txt) – Number of items, Item names and their corresponding credits
 2. Display user-friendly GUIs that enable customers’ deposited items to be selected with corresponding quantity
@@ -20,7 +20,7 @@ c. Plastic bottle, e.g. $0.5 / unit
 5. Produce a bill of all material / items collected in a working day
 ```
 
-**Preparation**
+## Preparation
 ```
 1. Define no fewer than 5 categories of recycling items that you think meaningful for the community around you
 2. Research to figure out credits for each of the items

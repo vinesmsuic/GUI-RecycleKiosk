@@ -30,4 +30,4 @@ c. Plastic bottle, e.g. $0.5 / unit
 ```
 
 ## How to use
-Read [User Manual](https://github.com/vinesmsuic/RecycleKiosk/blob/master/User%E2%80%99s%20Manual.pdf)
+Please Read [User Manual](https://github.com/vinesmsuic/RecycleKiosk/blob/master/User%E2%80%99s%20Manual.pdf)

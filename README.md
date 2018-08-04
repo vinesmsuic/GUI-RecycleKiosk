@@ -1,4 +1,4 @@
-# Recycle Kiosk Project for School Assignment 
+# Recycle Kiosk
 (Java on Netbeans IDE)
 
 ## What is this

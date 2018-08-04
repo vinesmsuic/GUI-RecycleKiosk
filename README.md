@@ -1,6 +1,9 @@
 # Recycle Kiosk Project for School Assignment 
 (Java on Netbeans IDE)
 
+## What is this
+* This is a simple GUI illustarting how a recycling mechine works.
+
 ## Aims
 ```
 1. To encourage recycling in our community, residents who deposit the below material / items to the recycling kiosk will gain credits to their Octopus Card as scheduled below (items and prices here are for reference only, you need to research and define them):

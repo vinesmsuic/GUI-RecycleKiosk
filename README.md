@@ -31,10 +31,9 @@ c. Plastic bottle, e.g. $0.5 / unit
 4. Look for information regarding how data can be passed from one form to another
 5. Sketch user-friendly UIs (User Interface) in a logical sequence for your system
 ```
-
-## How to use
-Please Read [User Manual](https://github.com/vinesmsuic/RecycleKiosk/blob/master/User%E2%80%99s%20Manual.pdf)
-
 ## Example Screenshots
 ![ss1](https://github.com/vinesmsuic/GUI-RecycleKiosk/blob/master/example%20screenshot/Screen%20Shot%202018-09-06%20at%2011.06.45%20PM.png)
 ![ss2](https://github.com/vinesmsuic/GUI-RecycleKiosk/blob/master/example%20screenshot/Screen%20Shot%202018-09-06%20at%2011.07.13%20PM.png)
+
+## How to use
+Please Read [User Manual](https://github.com/vinesmsuic/RecycleKiosk/blob/master/User%E2%80%99s%20Manual.pdf)
